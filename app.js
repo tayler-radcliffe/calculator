@@ -37,7 +37,7 @@ function add(x, y) {
 }
 
 function subtract(x, y) {
-    return Number(x) + Number(y) 
+    return Number(x) - Number(y) 
 }
 
 function multiply(x, y) {
